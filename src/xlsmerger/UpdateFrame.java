@@ -10,6 +10,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  * Облегченная версия основной программы.
+ * https://github.com/develop-dvs/xlsmerger
  * Divasoft, inc.
  * @version 0.25
  * @author Main Developer
